@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EBO_Meeker_Epic_NB", "EBO_Meeker_Epic_NB\EBO_Meeker_Epic_NB.csproj", "{498A07DC-1E56-4B0C-82A6-EB2952047D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498A07DC-1E56-4B0C-82A6-EB2952047D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498A07DC-1E56-4B0C-82A6-EB2952047D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498A07DC-1E56-4B0C-82A6-EB2952047D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498A07DC-1E56-4B0C-82A6-EB2952047D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B9939F7-DB45-45EF-BF5B-9D0D0E0A0E42}
+	EndGlobalSection
+EndGlobal
